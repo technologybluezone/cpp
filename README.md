@@ -1,8 +1,8 @@
 # C++ From Fundamentals to Intermediate to Advanced 
 
-Hello world
+Hello world, Output only
 
-Sequence, Expressions
+Sequence, Expressions, Input, Output
 
 Selections
 
